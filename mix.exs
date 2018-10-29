@@ -44,10 +44,7 @@ defmodule Graphical.Mixfile do
       {:absinthe, "~> 1.4.6"},
       {:absinthe_plug, "~> 1.4.2"},
       {:absinthe_ecto, "~> 0.1.3"},
-      {:faker, "~> 0.11.0"},
-      {:comeonin, "~> 4.0"},
-      {:bcrypt_elixir, "~> 1.0"},
-      {:guardian, "~> 1.0"}
+      {:faker, "~> 0.11.0"}
     ]
   end
 
