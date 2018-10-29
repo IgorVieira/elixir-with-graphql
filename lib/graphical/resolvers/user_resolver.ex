@@ -13,4 +13,8 @@ defmodule Graphical.UserResolver do
     end
   end
 
+  def update(%{id: id, user: user_params}, _info) do
+    Graphical.Accounts.get_user!(id)
+    |> Graphical.Accounts.update_user(user_params)
+  end
 end
