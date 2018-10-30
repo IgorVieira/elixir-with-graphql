@@ -22,7 +22,7 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-## Examples [here](https://github.com/IgorVieira/elixir-with-graphql/edit/master/Example.md)
+## Examples: [here](https://github.com/IgorVieira/elixir-with-graphql/edit/master/Example.md)
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
