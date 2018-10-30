@@ -8,7 +8,7 @@
   * [Elixir](https://elixir-lang.org/install.html)
   * [Phoenix](https://hexdocs.pm/phoenix/installation.html#content)
 
-  PS: If you have docker your computer you can use this [DockerCompose](https://gist.github.com/IgorVieira/7b96ec3a9737dcc15ab69a997a2fa078) for run with this applicaton
+  PS: If you have installed docker your computer you can use this [DockerCompose](https://gist.github.com/IgorVieira/7b96ec3a9737dcc15ab69a997a2fa078) for run with this applicaton
 
 
 To start your Phoenix server:
