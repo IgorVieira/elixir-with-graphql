@@ -1,5 +1,5 @@
-# Examples about this API
-
+# Consultation examples
+ 
  ## Queries
  
   ### Getters
